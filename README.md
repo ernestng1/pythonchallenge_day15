@@ -1,8 +1,8 @@
-<h1>Day 1 of the 100 Days of Code: The Complete Python Pro Bootcamp</h1>
-<p>For the Day 1 challenge, I created a Band Name Generator concatenates your hometown's name and pet's name to form a band name. This is a culmination of the teaching points that were shared in the tutorial, including the following but not limited to</p>
+<h1>Day 15 of the 100 Days of Code: The Complete Python Pro Bootcamp</h1>
+<p>For the Day 155 challenge, I created a Coffee Machine simulation, where participants can interact with a coffee machine, check the amount of resources left in the vending machine, handle transactions, and understand if it is able to handle the request based on the resources left and money inputted by the participant. This is a culmination of the teaching points that were shared in the tutorial, including the following but not limited to</p>
 <ul>
-  <li>print function</li>
-  <li>variable and naming conventions</li>
+  <li>functions</li>
+  <li>recursion</li>
   <li>input function</li>
 </ul>
 
