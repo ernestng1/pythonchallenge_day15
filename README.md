@@ -3,7 +3,7 @@
 <ul>
   <li>functions</li>
   <li>recursion</li>
-  <li>input function</li>
+  <li>conditional statements and loops</li>
 </ul>
 
 <h2>Why am I doing this?</h2>
