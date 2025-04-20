@@ -1,5 +1,5 @@
 <h1>Day 15 of the 100 Days of Code: The Complete Python Pro Bootcamp</h1>
-<p>For the Day 155 challenge, I created a Coffee Machine simulation, where participants can interact with a coffee machine, check the amount of resources left in the vending machine, handle transactions, and understand if it is able to handle the request based on the resources left and money inputted by the participant. This is a culmination of the teaching points that were shared in the tutorial, including the following but not limited to</p>
+<p>For the Day 15 challenge, I created a Coffee Machine simulation, where participants can interact with a coffee machine, check the amount of resources left in the vending machine, handle transactions, and understand if it is able to handle the request based on the resources left and money inputted by the participant. This is a culmination of the teaching points that were shared in the tutorial, including the following but not limited to</p>
 <ul>
   <li>functions</li>
   <li>recursion</li>
